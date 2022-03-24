@@ -1,3 +1,4 @@
 je represente devant mon article qui parle de l'imange dynamique.
 on va commencer par le plan de mon article.
 python est langage informatique . 
+ git est un outile qui permet gere la donnee local 
